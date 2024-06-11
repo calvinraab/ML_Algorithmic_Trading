@@ -1,1 +1,6 @@
 Name of dataset - URL 
+GDPC1.csv	- https://fred.stlouisfed.org/series/GDPC1
+UNRATE.csv - https://fred.stlouisfed.org/series/UNRATE
+UMCSENT.csv	- https://fred.stlouisfed.org/series/UMCSENT	
+DFF.csv	- https://fred.stlouisfed.org/series/DFF	
+FPCPITOTLZGUSA	- https://fred.stlouisfed.org/series/FPCPITOTLZGUSA	
