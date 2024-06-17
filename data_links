@@ -1,6 +1,16 @@
+Datasets
+gdp.csv	- https://fred.stlouisfed.org/series/GDPC1
+fed_funds_rate.csv	- https://fred.stlouisfed.org/series/DFF	
+cpi	- https://fred.stlouisfed.org/series/FPCPITOTLZGUSA	
+SP_price_action - https://finance.yahoo.com/quote/%5ESPX/history/?period1=-1325583000&period2=1718232014
+sentiment.csv	- https://fred.stlouisfed.org/series/UMCSENT	
+u_rate.csv - https://fred.stlouisfed.org/series/UNRATE
+
 Name of dataset - URL 
 GDPC1.csv	- https://fred.stlouisfed.org/series/GDPC1
 UNRATE.csv - https://fred.stlouisfed.org/series/UNRATE
 UMCSENT.csv	- https://fred.stlouisfed.org/series/UMCSENT	
 DFF.csv	- https://fred.stlouisfed.org/series/DFF	
 FPCPITOTLZGUSA	- https://fred.stlouisfed.org/series/FPCPITOTLZGUSA	
+
+
